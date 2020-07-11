@@ -18,7 +18,7 @@ const applyText = (canvas, text) => {
 };
 
 const prefix = ".";
-bot.login(process.env.TOKEN); //NjUzNjEzMTk2NDkzNTg2NDUy.Xr4EZg.TDNH6KVAAYSQPGZ7dR0qr8DIchc
+bot.login(process.env.TOKEN);
 
 bot.on("ready", () => {
   console.log("i am ready");
