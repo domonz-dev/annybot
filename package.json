@@ -1,0 +1,28 @@
+{
+  "name": "SkyNet",
+  "version": "0.0.1",
+  "description": "A discord bot for multi purpose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "quick.db": "^6.3.2",
+    "random-puppy": "^1.1.0"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
